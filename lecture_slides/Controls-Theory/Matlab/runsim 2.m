@@ -1,0 +1,1 @@
+[t,yd,yma,ua] = simview(G,Km);
